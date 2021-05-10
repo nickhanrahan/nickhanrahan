@@ -1,5 +1,3 @@
 - My name is Nick Hanrahan.
-- Transient navigating these waters.
-- Navigating in spite of limitations in IQ, opportunities, and time.
 - I am the subterranean spectacle.
-- Works of art shall emerge from the depths below.
+- Navigating in spite of limitations in IQ, opportunities, and time.

@@ -4,3 +4,4 @@
 - Creativity Connoisseur
 - Determined Developer
 - Exploratory Engineer
+- Feature Fixer

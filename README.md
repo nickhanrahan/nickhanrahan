@@ -1,8 +1,9 @@
 - My name is Nick Hanrahan
 - Artistic Architect
 - Binary Boy
-- Creativity Connoisseur
+- Creative Coder
 - Determined Developer
 - Exploratory Engineer
 - Feature Fixer
 - Git Goblin
+- Honorable Hacker

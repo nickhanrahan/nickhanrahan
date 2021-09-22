@@ -1,6 +1,6 @@
 - My name is Nick Hanrahan
 - Artistic Architect
-- Binary Boy
+- Binary Builder
 - Creative Coder
 - Determined Developer
 - Exploratory Engineer

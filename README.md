@@ -7,3 +7,4 @@
 - Feature Fixer
 - Git Goblin
 - Honorable Hacker
+- Iterative Indexer

@@ -9,4 +9,5 @@
 - Honorable Hacker
 - Innovative Iterator
 - Javascript Jobseeker
-- Kubernetes King
+- Keyboard King
+- Linux Loader

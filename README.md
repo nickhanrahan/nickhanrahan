@@ -1,7 +1,7 @@
 - My name is Nick Hanrahan
 - Artistic Architect
 - Binary Builder
-- Creative Coder
+- Containerized Coder
 - Determined Developer
 - Exploratory Engineer
 - Feature Fixer
@@ -11,3 +11,4 @@
 - Javascript Jobseeker
 - Keyboard King
 - Linux Loader
+- Mathematical Machine

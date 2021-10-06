@@ -1,4 +1,4 @@
-- My name is Nick Hanrahan
+Nick Hanrahan:
 - Artistic Architect
 - Binary Builder
 - Containerized Coder

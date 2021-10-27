@@ -2,7 +2,7 @@ Nick Hanrahan:
 - Artistic Architect
 - Binary Builder
 - Containerized Coder
-- Determined Developer
+- Data Developer
 - Exploratory Engineer
 - Feature Fixer
 - Git Goblin
@@ -16,3 +16,4 @@ Nick Hanrahan:
 - Object Orientor
 - Package Packer
 - Query Quant
+- RESTful Reader
